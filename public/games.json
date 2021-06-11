@@ -1,0 +1,22 @@
+{
+    "red": {
+        "release": "1996",
+        "description": "Pokémon Red Version and Pokémon Green Version are the first video games in the Pokémon series of games. They are the first primary paired versions of Generation I, developed by Game Freak and published by Nintendo for the handheld Game Boy. They were first released in Japan on February 27, 1996, and were later followed by the updated Pokémon Blue and the supplementary Pokémon Yellow."
+    },
+    "blue": {
+        "release": "1996",
+        "description": "Pokémon Blue Version is the third core series Pokémon game for Game Boy, released in Japan on October 15, 1996 exclusively to subscribers of CoroCoro Comic and on October 10, 1999 to general retail as a minor revision of Pokémon Red and Green, which were released earlier that year. It was thus the first solitary version in the core series Pokémon games."
+    },
+    "yellow": {
+        "release": "1998",
+        "description": "Pokémon Yellow Version: Special Pikachu Edition, often known as Pokémon Yellow Version, is the third Pokémon game for Game Boy released worldwide, as a solitary version of Pokémon Red and Blue Versions. In Japan, the game was the fourth Pokémon game released, as a second solitary version of Pocket Monsters Red & Green. Unlike other games, Pokemon Yellow was inspired by the anime."
+    },
+    "gold": {
+        "release": "1999",
+        "description": "Pokémon Gold Version and Pokémon Silver Version were the first core series games of Generation II for the Game Boy Color. They were released in Japan on November 21, 1999, in North America on October 15, 2000, and in Europe on April 6, 2001. Unlike earlier games, Pokémon Gold and Silver take place in the Johto region, west of the region that the original games take place in, Kanto. However, Kanto can be traveled to later in the games. Gold and Silver were followed shortly by a solitary version with minor changes, Pokémon Crystal."
+    },
+    "silver": {
+        "release": "1999",
+        "description": "Pokémon Gold Version and Pokémon Silver Version were the first core series games of Generation II for the Game Boy Color. They were released in Japan on November 21, 1999, in North America on October 15, 2000, and in Europe on April 6, 2001. Unlike earlier games, Pokémon Gold and Silver take place in the Johto region, west of the region that the original games take place in, Kanto. However, Kanto can be traveled to later in the games. Gold and Silver were followed shortly by a solitary version with minor changes, Pokémon Crystal."
+    }
+}
